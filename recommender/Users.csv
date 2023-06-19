@@ -1,0 +1,65 @@
+User ID,User Name,Contact,Skills,Jobs Applied,Job Experience,Projects,Posts,Posts Liked,Tags
+1,Alex,snalex@gmail.com,"Hacking, Python, Product Marketing, Product Launch","[1] Cyber Defence Operations Support, Darktrace
+I work on the front-line of cyber defence, responding to critical events and resolving a variety of situations involving the Darktrace cyber-security platform and supporting infrastructure.","[1] Product Manager, Expedeon - From Single Cell Genome to Whole Proteome
+First port of call for all technical help enquiries.
+Organisation of new product launches between multiple departments in multiple countries.
+Generating content and product literature for our website, social media, digital and physical marketing material, and blog posts.
+Magento online store back-end configuration and set up, with ultimate responsibility for products and content. Requires a working knowledge of HTML, PHP & SQL.
+Supporting managers and our mobile sales team with marketing reports, marketing intelligence, price benchmarking, and other related product information.",[1] Information security Researcher at BugCrowd,,,
+2,Rima,rima123@gmail.com,"Natural Language Processing NLP, Python, Information Retrieval, Python Developer, Python Software Engineer, Java, Algorithms, Data Mining",,"[1] Natural Language Processing (NLP) Engineer, medCPU, Inc.
+medCPU specializes in Clinical Decision Support software for the healthcare industry. medCPU captures the complete clinical picture from clinicians’ free-text notes, dictations, and structured information entered into any Electronic Medical Record (EMR), and generates real-time precise prompts for best care consideration.
+Designing, implementing, testing, and maintaining NLP pipeline for real-time clinical information extraction from structured and unstructured text, clinical spell checker, and text segmentation in clinical text
+Developing and evaluating methods for real-time classification and inference from complex streams of NLP annotations",,,,
+3,Vikas Gupta,vikas123@gmail.com,"Deep Learning, Machine Learning, Computer Vision, Image Processing, Python","[1] Senior Data Scientist, Snapdeal
+Built the explicit content detection system for the automated quality check system using Deep Learning.
+Worked on metadata creation from images uploaded by sellers for fashion clothing items using Computer Vision and Deep Learning","[1] Senior Software Engineer, Samsung Electronics
+Working on Proof of Concept for a NVMe over Fabrics driver. Dealing with linux kernel block layer, NVMe protocol and RDMA architecture.
+",,,,
+4,Nachiket Trivedi,nachiket123@gmail.com,"Java, Network Security, Algorithms, Object Oriented Programming, Cryptography, Database, Gits, Python, Natural Language Processing","[1] Software Developer, Deloitte","[1] Undergraduate Researcher, Cyber Security Research Group, DA-IICT
+I worked under Prof. Manik Lal Das as an undergrad research student for Cyber Security Research Group at DA-IICT.","[1] GPU implementation of SHA-1 Algorithm
+Parallelized the SHA-1 message digest computation
+[2] MalDetec- A Tool for Android Malware Detection
+As a part of my summer internship-2017, I developed an application which uses a non-root approach for dynamic malware detection in android using network traffic analysis. ",,,
+5,Shila Trivedi,shila@gmail.com,"Computational Linguistics, Natural Language Processing, Machine Learning, TensorFlow, Java, Text Mining, Semantic Technologies, Text Analysis, Text Classification",,"[1] Founder & Natural Language Processing Expert, NLP Town
+NLP Town combines a decade of research and development in Natural Language Processing with over ten years of experience in software engineering. We help your company leverage machine learning to implement state-of-the-art Natural Language Processing models and develop robust NLP software. Statistical models, deep learning and linguistic knowledge are part of our DNA. Get in touch if you would like to make the most of your textual data.","[1] NLP for E-commerce
+Development of text generation, classification and keyword extraction software for new and second-hand product ads.
+[2] Machine Translation for Specialized Domains
+I have implemented and tuned several machine translation systems for specialized domains. Thanks to the output of these MT systems, the translators at Belgian translation company Oneliner are able to work more efficiently
+[3] Search Engine for Patents
+For Brussels-based Skryv, I developed a patent search engine that helps patent officers find prior art more quickly and accurately, thanks to semantic search.",,,
+6,Raj Shah,rajshah@gmail.com,"Machine Learning, Algorithms, Human Computer Interaction, User Interface Design, Distributed Systems, User Interface, Project Management, Artificial Intelligence, Product Management, Social Media Analytics, Video","[1] Google, Software Intern","[1] Research Scientist, Facebook Conversational AI, Facebook
+I am a tech lead in the Facebook conversational AI group working on natural language understanding using state-of-the-art deep learning models.
+[2] Research Programmer, Viv Labs (acquired by Samsung)
+I led research work on natural language processing at Viv, a conversational AI and assistant platform, primarily focused on task oriented conversational learning. I spearheaded the work on deep learning algorithms for enabling natural language understanding on Viv's platform. Viv was acquired by Samsung in Oct 2016 and released as Bixby 2.0 and Bixby Developer platform.
+[3] Data Science PhD Intern, PayPal
+[4] Microsoft, Research Intern",,,,
+7,Harsh Bhatt,harsh@gmail.com,"Multithreading, Machine Learning, Software Engineering, Software Design, ARM, Design Patterns, Object Oriented Design, OOP, Computer Science, Artificial Intelligence, Debugging, Software Development, Programming, System Architecture, Distributed Systems, Digital Signal Processors",,"[1] Senior Engineer, Project lead, Samsung Electronics
+C/C++, computer vision multimedia
+Leading and successfully completing a project related to gestures recognition.
+Object tracking.
+Object detection and segmentation.
+[2] Software engineer, GenuineSoft
+Development of a GPS tracking and telematics system: presentation server (Clojure, Java Servlets), driver for mobile tracker devices (Clojure, TCP over GPRS), GPS+GSM tracker device prototyping (C, ARM7), AJAX-based UI.",,,,
+8,Yogesh Tirpathi,yogesh@gmail.com,"Artificial Intelligence, Distributed Systems, Robotics, Programming, Computer Science, Shell Scripting, Tools & Technologies, Python, C, Java, Matlab, Linux, MySQL, LaTeX, R, Embedded Systems, Node.js, Android, Lua, CUDA, GPU, deep learning, OpenCV, OpenMP, Large Data",,"[1] Research Intern, Siemens
+Built systems for autonomous robot navigation involving real-time 3D registration and matching of incoming camera images. Also worked on building deep learning classifiers on histopathological data to detect cancerous and malignant tissues.
+[2] Client Support, New York University
+Monitoring and administration of linux servers, network and linux/windows/mac systems as well as maintaining print, mail servers and computing clusters.
+[3] Research Scholar, Carnegie Mellon University
+Developed algorithms for navigation and balance of biped robots using a combination of vision and sonar sensors under Dr.Manuela Veloso.
+Worked on Face Recognition problems using a dimensionality reduction approach under Dr.Fernando De La Torre",,,,
+9,Fevin Balat,fevin@gmail.com,"Java, JavaScript, C++, Databases, MySQL, Hadoop, JSP, HTML, Linux, SQL, CSS,
+NoSQL, Android, HTML 5, AJAX, Eclipse, Python, Java Enterprise Edition, Servlets, Spring, Git, JavaServer Pages (JSP), MapReduce, Deep Learning, Natural Language Processing, Natural Language Generation.",,"[1] Software Development Engineer Intern, Amazon
+Part of the Global Action Trace - Distributed Computing team under the E-commerce Platform Services. 
+Tracking dependency changes for any service in Amazon over time to report changes in call patterns like new or removed dependencies. Tracking volume of calls between services, to report causes of discrepancy or latency issues in the call chains.
+Processing was done in a distributed environment to make it scalable to manage millions of service calls made in an hour.
+[2] Database Specialist, University of Southern California
+Performance tuning of database using query optimization techniques.
+Processing student data to generate survey reports and cleaning up redundant data using normalization.
+[3] Software Engineer, PubMatic
+Part of the AdServer team responsible for Online AdServing for publishers in real time across display, mobile and video. Included the end to end ad serving process, requesting bids, sending the optimal ad and gathering stats all in realtime.
+Worked on designing and implementing video ad serving for publishers supporting video inventory.
+Used Hadoop (Map Reduce) to aggregate pixel and audience data stats and writing it to MySQL. Also, worked on predicting the mobile ad price from Ad networks using different parameters like device, os, time, location, etc.",,,,
+10,Varun Barot,varun@gmail.com,"Scalability, DNS, Algorithms, Cloud Computing, IP, Wireless, Strategy, Linux, Python, C++, Management, Leadership, Networking, Load Balancing, Content Distribution Networks, MapReduce",,"[1] Distinguished Engineer, Google
+Connectivity
+Software Defined Networking/Network Virtualization",,,,
+11,Shalini Malhotra,shalini@gmail.com,"AWS, Cloud Computing","[1] Cloud Computing Engineer, Amazon ",,[1] Used Google Cloud for data backup to create a cloud computing software,,,

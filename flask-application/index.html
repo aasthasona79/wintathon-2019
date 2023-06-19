@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style1.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style2.css') }}"/>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='slick/slick/slick-theme.css') }}"/>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='slick/slick/slick.css') }}"/>
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header page-scroll">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand page-scroll" href="#page-top"><img src="images/logo3.png" alt="Lattes theme logo"></a>
+        </div>
+  
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+              <a class="page-scroll" href="#about">Organise</a>
+            </li>
+            <li>
+              <a class="page-scroll" href="#about">|</a>
+            </li>
+            <li>
+              <a class="page-scroll" href="#portfolio"><div class="dropdown"><div class="dropbtn">
+                     <img src="images/girl.png" class="img-circle" alt="profile photo" height="45px"></div>
+                         <div class="dropdown-content">
+                           <a href="#">My Events</a>
+                           <a href="#">Profile</a>
+                           <a href="#">Log Out</a>
+                           </div>
+             </div>
+              </a>
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">#attend</a>
+    </div>
+    
+  </div>
+</nav>
+
+<header>
+      <div class="container">
+        <div class="slider-container">
+          <div class="intro-text">
+            <div class="intro-lead-in">Find new connections</div>
+            <div class="intro-heading">#</div>
+            <a href="#about" class="page-scroll btn btn-xl">T#</a>
+          </div>
+        </div>
+      </div>
+</header>
+<hr>
+<div class = "container">
+  Recommended events
+</div>
+<hr>
+<div class="container">
+  <div class="main">
+  
+  <div class="slider slider-nav">
+    <div><h3>1</h3></div>
+    <div><h3>2</h3></div>
+    <div><h3>3</h3></div>
+    <div><h3>4</h3></div>
+    <div><h3>5</h3></div>
+  </div>
+  
+</div></div>
+
+ <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="slick/slick/slick.min.js"></script>
+<script type="text/javascript">
+
+ $('.slider-nav').slick({
+  infinite: true,
+  slidesToShow: 3,
+  slidesToScroll: 3,
+   dots: true,
+   focusOnSelect: true
+ });
+
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+body{
+  background:#ccc;
+}
+.main {
+  font-family:Arial;
+  width:1000px;
+  display:block;
+  margin:0 auto;
+}
+.heading
+{
+  height:300px;
+  background: #fff;
+  padding: 2%;
+  margin: 10px;
+}
+
+h3 {
+    
+    color: #3498db;
+    font-size: 18px;
+    line-height: 200px;
+    margin: 10px;
+    padding: 2%;
+    position: relative;
+    text-align: center;
+}
+.action{
+  display:block;
+  margin:100px auto;
+  width:100%;
+  text-align:center;
+}
+.action a {
+  display:inline-block;
+  padding:5px 10px; 
+  background:#f30;
+  color:#fff;
+  text-decoration:none;
+}
+.action a:hover{
+  background:#000;
+}
